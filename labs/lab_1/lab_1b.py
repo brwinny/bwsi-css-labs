@@ -5,7 +5,7 @@ This is a script that implements a simple calculator. It takes two numbers and a
 then performs the operation and returns the result. 
 
 The script asks the user to input the numbers and the operation to be performed,
-and prints the result to the terminal window.
+and prints the result to the terminal window. aa
 
 """
 
@@ -48,7 +48,7 @@ def main():
 
     # Perform the calculation and display the result
     result = simple_calculator(operation, num1, num2)
-    print(f"The result of {operation}ing {num1} and {num2} is: {result}")
+    print(f"The result of {operation}ing {num1} and {num2} is: {result}") 
 
 
 if __name__ == "__main__":
